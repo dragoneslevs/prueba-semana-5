@@ -1,0 +1,14 @@
+.my-carousel{
+	margin-top: -20px;
+}
+body{
+	background-color:blue;
+}
+.navbar{
+	background: none;
+	border:none;
+}
+.row{
+	margin-top: 100px;
+	text-align: center;
+}
