@@ -4,11 +4,19 @@
 body{
 	background-color:blue;
 }
+.nav navbar-nav navbar-right{
+	color: white;
+}
 .navbar{
-	background: none;
+	
 	border:none;
 }
 .row{
-	margin-top: 100px;
+	margin-top: 20px;
 	text-align: center;
+	font-size: 200px;
+}
+.footer{
+	background-color: #004d80;
+	color: white;
 }
