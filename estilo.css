@@ -39,6 +39,7 @@ body{
 
 }
 
+
 .notice-1{
 	border-bottom: solid 2px white;
 }
@@ -75,9 +76,7 @@ li {
 	padding: 0;
 	margin: 0;
 	text-align: center;
-	
-
-}
+	}
 
 .footer{
 	background-color:#00cc44;
