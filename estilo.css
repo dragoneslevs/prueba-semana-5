@@ -14,7 +14,15 @@ body{
 
 	border:none;
 }
-
+.item img{
+	width: 100%;
+	object-fit: cover;
+	object-position: 50% 50%;
+	height: 100% !important;
+}
+.item{
+	height: 400px;
+}
 
 .jumbotron{
 	background-color:#e6e600;
